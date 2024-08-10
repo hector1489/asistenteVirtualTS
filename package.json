@@ -1,0 +1,17 @@
+{
+  "name": "asistentevirtualts",
+  "version": "1.0.0",
+  "main": "script_virtual.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "axios": "^1.6.8",
+    "openai": "^4.55.4",
+    "typescript": "^5.4.5"
+  }
+}
