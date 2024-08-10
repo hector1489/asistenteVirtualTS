@@ -1,7 +1,7 @@
 import OpenAI from 'openai';
 import axios from 'axios';
 
-const apiKey = 'mi-key';
+const apiKey = 'key api';
 
 const openai = new OpenAI({
   apiKey: apiKey,
